@@ -9,11 +9,11 @@ A passionate full-stack developer with 4 years of experience, primarily speciali
 - Open-source contributions and collaborative projects
 
 ## 🌱 I’m currently learning...
-- Advanced techniques in RESTful API design
+- Advanced techniques in REST API design
 - Emerging technologies in the software development landscape
 - Best practices for software security and performance optimization
 
-## 💞️ I’m looking to collaborate on...
+## 💻 I’m looking to collaborate on...
 - Open-source projects that make a difference
 - Innovative software solutions and applications
 - Community-driven development initiatives that foster learning and sharing
