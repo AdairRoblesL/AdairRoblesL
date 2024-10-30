@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Adair Robles
 
-I'm Adair Robles, a passionate full-stack developer with 4 years of experience, primarily specializing as a Java developer. I love creating innovative solutions and sharing knowledge with the developer community.
+A passionate full-stack developer with 4 years of experience, primarily specializing as a Java developer. I love creating innovative solutions and sharing knowledge with the developer community.
 
 ## 👀 I’m interested in...
 - Developing high-quality software solutions
